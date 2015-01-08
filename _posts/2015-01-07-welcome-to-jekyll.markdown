@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Zuyao Li's website!"
 date:   2015-01-07 20:25:50
 categories: jekyll update
 ---
